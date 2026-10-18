@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# The song audio is a commercial recording — never commit it.
+# Place your own legally-obtained copy at public/song.mp3 (see README).
+public/song.mp3
+
+# Render outputs
+*.mp4
+*.mov
+*.webm
+out/
+render/
+
+# Build / OS artifacts
+.DS_Store
+Thumbs.db
+*.log
